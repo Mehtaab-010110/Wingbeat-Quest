@@ -15,12 +15,5 @@ Open the project in Unity.
 Run the game within the Unity editor or build it for your preferred platform.
 Contribute:
 I welcome contributions and suggestions! Feel free to fork the repository, create feature branches, and submit pull requests.
-
-License:
-This project is released under [specify the license type here], which allows for modification and distribution with attribution.
-
-Acknowledgements:
-A special thanks to [any contributors or resources you'd like to acknowledge].
-
 Join the flight in this tribute to a classic, and dive into the world of game development with this Flappy Bird clone!
 
